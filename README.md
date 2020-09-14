@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Testing my CS skills. I have taken up through senior-level CS classes.
